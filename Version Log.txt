@@ -1,0 +1,18 @@
+Current Version: v0.3
+Created and Edited by Jonah Brawley :)
+
+Version 0.1:
+	+ Added dialog that stops you from entering nothing.
+
+Version 0.2:
+	+ Added Child-Safe mode!
+	+ Dialog that asks if the user wants to enable Child-Safe mode.
+	+ Dialog that stops you from using innapropriate language. (within Child-Safe mode)
+	+ Fixed bug that opens the Child-Safe dialog when you exit the application.
+	+ Refinements.
+
+Version 0.3:
+	+ Added Installer!
+	+ Fixed Numberous discrepencies in the .txt files.
+	+ Touched up source folder and made installation less confusing.
+	+ Refinements.
